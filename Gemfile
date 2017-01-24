@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'devise', '~> 4.2'
 gem 'activeadmin', github: 'activeadmin'
 gem 'inherited_resources', github: 'activeadmin/inherited_resources'
+gem 'active_skin'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :development, :test do
